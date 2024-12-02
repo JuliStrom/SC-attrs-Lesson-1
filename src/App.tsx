@@ -8,9 +8,9 @@ function App() {
             <Title>Styled-components <span>.attrs</span> method</Title>
 
             <Form>
-                <Field/>
-                <Field/>
-                <Field/>
+                <Field type= "password"/>
+                <Field type= "radio"/>
+                <Field type="checkbox"/>
             </Form>
         </div>
     );
